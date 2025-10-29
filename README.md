@@ -12,6 +12,9 @@ In 2023, I was fortunate to have the opportunity to partake in the European Astr
 - Developed the system responsible for saving the gathered images and data into the correct folders and files
 - Debugged and fixed identified issues in the program's code
 
+## Team Members
+- **Artemii Teplov** — [LinkedIn](https://www.linkedin.com/in/artemii-teplov-5607b7366/?originalSubdomain=uk)
+
 
 ## Tools & Languages
 
