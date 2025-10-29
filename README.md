@@ -13,9 +13,14 @@ In 2023, I was fortunate to have the opportunity to partake in the European Astr
 - Debugged and fixed identified issues in the program's code
 
 
-## Tools Used
+## Tools & Languages
+
+### Tools
 - Thonny IDE
 - Raspberry Pi
+
+### Languages
+- Python
 
 
 ## Media 
