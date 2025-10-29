@@ -1,5 +1,8 @@
 # European Astro Pi Challenge 2023-2024
 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/> 
+
+
 ## Overview 
 In 2023, I was fortunate to have the opportunity to partake in the European Astro Pi Challenge. Over the course of two months, a peer and I were able to successfully develop a program written in the *Python* programming language that estimated the average speed of the ISS. Our program was successfully executed on the ISS in 2024. We later received certifications from the ESA and the data that was gathered when the program was executed on the ISS.
 
