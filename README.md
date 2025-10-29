@@ -13,4 +13,4 @@ In 2023, I was fortunate to have the opportunity to partake in the European Astr
 
 <img width="1200" height="900" alt="Astro Pi Map Certificate" src="https://github.com/user-attachments/assets/a19c9f39-35e1-4b50-9934-737b08ec289a" />
 
-*Captured image of the certificate that shows when and where in orbit our program executed.*
+*Captured image of the certificate that shows when and where our program was executed.*
