@@ -26,4 +26,4 @@ In 2023, I was fortunate to have the opportunity to partake in the European Astr
 *Captured image of the certificate that shows when and where our program was executed.*
 
 ## Review
-Partaking in the European Astro Pi Challenge, was a challenging and rewarding experience. The opportunity allowed me to improve my problem solving and communication skills. In addition, working on the project has improved my understanding of the Python programming language and similar programming languages. I am pleased that our team was able to successfully develop the program in the allotted time, which then later executed on the ISS.
+Partaking in the European Astro Pi Challenge, was a challenging and rewarding experience. The opportunity allowed me to improve my problem solving and communication skills. In addition, working on the project has improved my understanding of the Python programming language and similar programming languages. I am proud that our team was able to successfully develop the program to estimate the speed of the ISS in the allotted time.
