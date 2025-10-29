@@ -1,7 +1,7 @@
 # European Astro Pi Challenge 2023-2024
 
 ## Overview 
-In 2023, I was fortunate to have the opportunity to partake in the European Astro Pi Challenge. Over the course of two months, myself and a peer were able to successfully develop a program written in the *Python* programming language that estimated the average speed of the ISS. Our program was successdully executed on the ISS in 2024. We later received certifications from the ESA and the data that was gathered when the program was executed on the ISS.
+In 2023, I was fortunate to have the opportunity to partake in the European Astro Pi Challenge. Over the course of two months, a peer and I were able to successfully develop a program written in the *Python* programming language that estimated the average speed of the ISS. Our program was successfully executed on the ISS in 2024. We later received certifications from the ESA and the data that was gathered when the program was executed on the ISS.
 
 
 ## My Contributions 
@@ -24,3 +24,6 @@ In 2023, I was fortunate to have the opportunity to partake in the European Astr
 <img width="1200" height="900" alt="Astro Pi Map Certificate" src="https://github.com/user-attachments/assets/a19c9f39-35e1-4b50-9934-737b08ec289a" />
 
 *Captured image of the certificate that shows when and where our program was executed.*
+
+## Review
+Partaking in the European Astro Pi Challenge, was a challenging and rewarding experience. The opportunity allowed me to improve my problem solving and communication skills. In addition, working on the project has improved my understanding of the Python programming language and similar programming languages. I am pleased that our team was able to successfully develop the program in the allotted time, which then later executed on the ISS.
